@@ -1,2 +1,2 @@
 # bookbot
-BookBot is a small project written in Python.
+BookBot is a small project written in Python which is used to generate a report of data about any given text file. Script will return the number of words in the file as well as the number of occurances of each letter.
